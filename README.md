@@ -35,7 +35,7 @@ This mod lets multiple players edit the same level together in real-time via an 
 ---
 
 ## 📂 Project Structure
-
+```
 EditorCollab2.2/
 ├── src/
 │ ├── hooks/
@@ -48,7 +48,7 @@ EditorCollab2.2/
 │ └── mod.json
 ├── README.md
 └── LICENSE
-
+```
 ---
 
 ## 📦 Installation
