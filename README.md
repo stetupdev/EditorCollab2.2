@@ -70,8 +70,16 @@ EditorCollab2.2/
 
 ## 📜 License
 
-MIT License.  
-Feel free to fork, modify, and contribute!
+This project is licensed under the **EditorCollab License**.
+
+- You are allowed to use and run this mod for personal, non-commercial purposes.
+- Contributions may be submitted via pull requests and will only be merged if approved by **Stetup (JacobbbGEO)**.
+- You are **not permitted** to fork, redistribute, or create derivative works based on this project without explicit, written consent from the author.
+
+For the full terms, see the [LICENSE](./LICENSE) file.
+
+For permission requests, inquiries, or commercial licensing discussions, contact:
+**stetupdev@techie.com**
 
 ---
 
